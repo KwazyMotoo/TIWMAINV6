@@ -1,0 +1,111 @@
+.pr0xies-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("public/playground_assets/40220fd7-08a9-4c15-a5ae-84ebc950d1fd_1-1500w.png");
+}
+.pr0xies-container1 {
+  top: 43px;
+  left: -28px;
+  width: 318px;
+  height: 899px;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.pr0xies-navlink {
+  top: 214px;
+  left: 99px;
+  position: absolute;
+  font-size: 25px;
+  align-self: flex-start;
+  font-family: Comic Sans MS;
+  text-decoration: none;
+}
+.pr0xies-nav-item {
+  display: flex;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: column;
+}
+.pr0xies-options {
+  display: flex;
+  position: relative;
+  margin-left: var(--dl-space-space-unit);
+  flex-direction: column;
+}
+.pr0xies-navlink1 {
+  top: -163px;
+  left: -62px;
+  color: #ece8e8;
+  position: absolute;
+  font-size: 25px;
+  font-family: Comic Sans MS;
+  text-decoration: none;
+}
+.pr0xies-nav-item1 {
+  display: flex;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: column;
+}
+.pr0xies-options1 {
+  display: flex;
+  position: relative;
+  margin-left: var(--dl-space-space-unit);
+  flex-direction: column;
+}
+.pr0xies-navlink2 {
+  top: -125px;
+  left: -46px;
+  color: #f1eaea;
+  position: absolute;
+  font-size: 25px;
+  font-family: Comic Sans MS;
+  text-decoration: none;
+}
+.pr0xies-navlink3 {
+  top: -36px;
+  left: -80px;
+  color: #f3ecec;
+  position: absolute;
+  font-size: 25px;
+  font-family: Comic Sans MS;
+  text-decoration: none;
+}
+.pr0xies-nav-item2 {
+  display: flex;
+  margin-bottom: var(--dl-space-space-unit);
+  flex-direction: column;
+}
+.pr0xies-options2 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  margin-left: var(--dl-space-space-unit);
+  flex-direction: column;
+}
+.pr0xies-navlink4 {
+  top: 453px;
+  left: 117px;
+  position: absolute;
+  font-size: 20px;
+  text-decoration: none;
+}
+.pr0xies-text38 {
+  color: #f7efef;
+  font-size: 25px;
+  font-family: Comic Sans MS;
+}
+.pr0xies-image {
+  top: -5px;
+  left: 35px;
+  width: 245px;
+  height: 216px;
+  position: absolute;
+  object-fit: cover;
+}

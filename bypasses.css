@@ -1,0 +1,63 @@
+.bypasses-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.bypasses-navlink {
+  top: 227px;
+  left: 71px;
+  position: absolute;
+  font-size: 25px;
+  text-decoration: none;
+}
+.bypasses-navlink1 {
+  top: 228px;
+  left: 500px;
+  position: absolute;
+  font-size: 25px;
+  text-decoration: none;
+}
+.bypasses-text01 {
+  font-size: 25px;
+}
+.bypasses-button {
+  top: 228px;
+  left: 1047px;
+  position: absolute;
+  font-size: 25px;
+}
+.bypasses-navlink2 {
+  text-decoration: none;
+}
+.bypasses-button1 {
+  top: 378px;
+  left: 71px;
+  position: absolute;
+  font-size: 25px;
+}
+.bypasses-navlink3 {
+  text-decoration: none;
+}
+.bypasses-text06 {
+  font-size: 25px;
+}
+.bypasses-button2 {
+  top: 384px;
+  left: 638px;
+  position: absolute;
+  font-size: 25px;
+}
+.bypasses-navlink4 {
+  text-decoration: none;
+}
+.bypasses-navlink5 {
+  top: 394px;
+  left: 918px;
+  position: absolute;
+  font-size: 25px;
+  text-decoration: none;
+}
